@@ -429,7 +429,6 @@ whoami
 
 ---
 
-**Autor:** [Tu nombre]  
-**Fecha:** Septiembre 2025  
+**Fecha:** 07 de Septiembre de 2025  
 **Dificultad:** Easy  
 **Plataforma:** DockerLabs
