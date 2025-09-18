@@ -1,20 +1,16 @@
 # Laboratorio Pingpong
 
 ## Descripción
-Writeup del laboratorio **Pingpong** de DockeEfectivamente podemos abusar del sistema de ping, procederemos a hacer una búsqueda profunda para encontrar algún archivo comprometedor.
-
-Haciendo una búsqueda en el directorio raíz con `ls -la` podemos encontrar que en el directorio `/etc` podemos encontrar bastantes archivos interesantes, entre esos "passwd":
+Writeup del laboratorio **Pingpong** de Docker
 
 ```
-localhost && cd /etc && ls -la - Dificultad: Medium
-
-## Reconocimiento
-
 ### Inicialización del laboratorio
 Inicializamos el laboratorio Pingpong con el comando:
 ```bash
 ./auto_deploy.sh pingpong.tar
 ```
+
+## Reconocimiento
 
 ### Escaneo de puertos
 Realizamos un escaneo completo de puertos con nmap:
