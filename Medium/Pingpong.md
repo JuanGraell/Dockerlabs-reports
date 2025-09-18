@@ -275,10 +275,6 @@ Ahora que estamos con el usuario gladys veremos nuevamente el listado de binario
 sudo -l
 ```
 
-```bash
-sudo -l
-```
-
 ```
 Matching Defaults entries for gladys on dd48815f6cfb:
     env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin, use_pty
@@ -334,7 +330,6 @@ sudo -u theboss /usr/bin/awk 'BEGIN {system("/bin/bash")}'
 
 Ahora nuevamente listamos los binarios para ver qué tenemos con el usuario theboss:
 
-```bash
 ```bash
 sudo -l
 ```
