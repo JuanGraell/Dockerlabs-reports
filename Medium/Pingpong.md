@@ -113,6 +113,7 @@ Luego al hacer un `cat` podemos encontrar varios de los usuarios que se encuentr
 
 ```
 localhost && cat /etc/passwd
+```
 
 ```
 PING localhost (::1) 56 data bytes
