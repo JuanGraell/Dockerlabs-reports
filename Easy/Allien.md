@@ -8,7 +8,7 @@ Writeup del laboratorio **Allien** de DockerLabs - Dificultad: Easy
 ### Inicialización del laboratorio
 Inicializamos el laboratorio Allien con el comando:
 ```bash
-./auto_deploy.sh Allien.tar
+./auto_deploy.sh allien.tar
 ```
 
 ### Escaneo de puertos

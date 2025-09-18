@@ -8,7 +8,7 @@ Writeup del laboratorio **Bypassme** de DockerLabs - Dificultad: Easy
 ### Inicialización del laboratorio
 Inicializamos el laboratorio Bypassme con el comando:
 ```bash
-./auto_deploy.sh Bypassme.tar
+./auto_deploy.sh bypassme.tar
 ```
 
 ### Escaneo de puertos
