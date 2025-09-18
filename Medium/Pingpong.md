@@ -91,7 +91,9 @@ Efectivamente podemos abusar del sistema de ping, procederemos a hacer una búsq
 
 Haciendo una busqueda en el directorio raiz con ls -la podemos encontrar que en el directorio /etc podemos encontrar bastantes archivos interesantes, entre esos "passwd"
 
+```
 localhost && cd /etc && ls -la
+```
 
 ```
 PING localhost (::1) 56 data bytes
